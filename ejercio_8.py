@@ -9,3 +9,5 @@ primera_letra = palabra[0]
 ultima_letra = palabra[-1]
 
 print(f"{primera_letra}, {letra_media}, {ultima_letra}")
+#
+

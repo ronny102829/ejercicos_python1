@@ -7,3 +7,4 @@ for i in range(cantidad_numeros):
         contador_negativos += 1
 
 print(f"Ha introducido {contador_negativos} número(s) negativo(s).")
+#

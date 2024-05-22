@@ -9,3 +9,4 @@ else:
 
 print(f"el precio de la entrada es:{precio} soles")
 
+#

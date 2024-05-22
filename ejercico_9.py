@@ -6,3 +6,4 @@ for i in range(1, cantidad_numeros):
     if numero <= anterior:
         print(f"El número {numero} no es mayor que el anterior ({anterior}).")
     anterior = numero
+    #
